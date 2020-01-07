@@ -37,7 +37,7 @@
         "searchkeyword": "Clear Paper Jam",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://pbinsight.secure.force.com/PBVideos?videoID=MnujNPd9jjyyEQNhGwZtKG"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/paperjam/paperjam_1.png",
@@ -59,7 +59,7 @@
         "searchkeyword": "ink",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://www.youtube.com/watch?v=bGSAPjU0P7g"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
        "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/ink/ink_1.png",
@@ -77,7 +77,7 @@
         "searchkeyword": "printer",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://pbinsight.secure.force.com/PBVideos?videoID=nQbWtxvoJHMZQBmqXMPAQ1"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/printer/printer_1.png",
@@ -98,7 +98,7 @@
         "searchkeyword": "refilling postage",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://www.youtube.com/watch?v=j_iwxosqKNo"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/refilling_postage/refilling_postage_1.png",
@@ -115,7 +115,7 @@
         "searchkeyword": "feeding envelopes",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://www.youtube.com/watch?v=lEH7On9JJjE"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/feeding_envelopes/feeding_envelopes_1.png",
@@ -133,7 +133,7 @@
         "searchkeyword": "poor print quality",
         "imagemin": "110X110",
         "imagemax": "500X500",
-        "videourl": "https://pbinsight.secure.force.com/PBVideos?videoID=dCUe4ahCW8BMDsTxTofinX"
+        "videourl": "https://www.example.com/"
     },
     "productimages": [
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_1.png",
