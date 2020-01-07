@@ -1,4 +1,36 @@
-[{
+[
+    {
+        "productdetails": {
+            "name": "No Print Head",
+            "searchkeyword": "No Print Head",
+            "imagemin": "110X110",
+            "imagemax": "500X500",
+            "videourl": "",
+            "articlecode": "kA11E000000TNkCSAW"
+        },
+        "productimages": [
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/no_print_head/no_print_head_1.png",
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/no_print_head/no_print_head_2.png",
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/no_print_head/no_print_head_3.png",
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/no_print_head/no_print_head_4.png",
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/no_print_head/no_print_head_5.png"
+        ]
+    },
+    {
+        "productdetails": {
+            "name": "Refilling postage for shipping labels",
+            "searchkeyword": "Refilling postage for shipping labels",
+            "imagemin": "110X110",
+            "imagemax": "500X500",
+            "videourl": "",
+            "articlecode": "kA180000000CuSuCAK"
+        },
+        "productimages": [
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/refilling_postage_for_shipping_labels/refilling_postage_for_shipping_labels_1.png",
+            "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/refilling_postage_for_shipping_labels/refilling_postage_for_shipping_labels_2.png"
+        ]
+    },
+    {
     "productdetails":
     {
         "name": "Clear Paper Jam",
@@ -108,7 +140,8 @@
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_2.png",
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_3.png",
         "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_4.png",
-        "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_5.png"
+        "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_5.png",
+        "https://raw.githubusercontent.com/pawankv89/poc/master/ar_support_Images/poor_print_quality/poor_print_quality_6.png"
     ]
 }
 ]
